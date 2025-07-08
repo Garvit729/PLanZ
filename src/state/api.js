@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const api = createApi({
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://plan-z-backend.vercel.app/",
+    baseUrl: "https://handlebitbackend.onrender.com/",
     credentials: "include",
   }),
   reducerPath: "adminApi",
