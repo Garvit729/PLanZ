@@ -48,7 +48,7 @@ const About = () => {
               width='90%'
               color={theme.palette.secondary.main}
             >
-              ABOUT planZ
+              ABOUT Handlebit
             </Typography>
           </AccordionSummary>
           <AccordionDetails>

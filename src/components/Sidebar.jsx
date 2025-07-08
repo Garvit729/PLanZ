@@ -97,7 +97,7 @@ const Sidebar = ({
                   sx={{ cursor: "pointer" }}
                 >
                   <Typography variant='h4' fontWeight='bold'>
-                    <AnimateText text='planZ' delayValue={0.1} />
+                    <AnimateText text='Handlebit' delayValue={0.1} />
                   </Typography>
                 </Box>
                 {!isNonMobile && (

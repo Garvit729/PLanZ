@@ -93,7 +93,7 @@ const HomeNavbar = () => {
               variant="h1"
               onClick={() => navigate("/")}
             >
-              <AnimateText text="planZ" delayValue={0.2} />
+              <AnimateText text="Handlebit" delayValue={0.2} />
             </Typography>
           </Box>
         </FlexBetween>
@@ -200,7 +200,7 @@ const HomeNavbar = () => {
               )}
               <Box display="flex" alignItems="center" gap="0.5rem">
                 <Typography variant="h4" fontWeight="bold">
-                  planZ
+                  Handlebit
                 </Typography>
               </Box>
             </FlexBetween>

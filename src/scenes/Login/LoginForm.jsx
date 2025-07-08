@@ -78,7 +78,7 @@ const LoginForm = () => {
                     p='1rem 0rem 1rem 0rem'
                     color={theme.palette.secondary.main}
                   >
-                    planZ
+                    Handlebit
                   </Typography> */}
                   <Typography
                     fontSize='1.8rem'
