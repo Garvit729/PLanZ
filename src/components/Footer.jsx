@@ -18,7 +18,7 @@ const Footer = () => {
       <Typography textAlign='center' fontSize={!isNonMobile && "0.7rem"}>
         Developed with ❤️ By
         <Typography mx={1} variant='span' fontWeight='bold' color='secondary'>
-          <Link to='https://github.com/omchaudhary007/' target="_blank">Team Handlebit</Link>
+          <Link to='https://github.com/Garvit729/HandleBit' target="_blank">Team Handlebit</Link>
         </Typography>
       </Typography>
     </Box>
